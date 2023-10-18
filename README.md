@@ -4,3 +4,5 @@
 <div align="rigt">
 <img src="https://komarev.com/ghpvc/?username=nielpz&&style=flat-square" />
 </div>  
+
+[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nielpz)
