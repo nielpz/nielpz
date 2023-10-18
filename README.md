@@ -1,16 +1,19 @@
 ### Hi there 👋
 
-<!--
-**nielpz/nielpz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div class="animated-button">Hover me!</div>
 
-Here are some ideas to get you started:
+<style>
+.animated-button {
+  display: inline-block;
+  padding: 10px 20px;
+  background: #007BFF;
+  color: #fff;
+  border-radius: 5px;
+  transition: background 0.3s, color 0.3s;
+}
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+.animated-button:hover {
+  background: #fff;
+  color: #007BFF;
+}
+</style>
